@@ -1,0 +1,34 @@
+<!-- this is a main site layout file, it is a basic structure of all html web pages that i will add to my website -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- this is a liquid tag, here is where i change the title of my page with every new page i make -->
+    <title>{{ page.title }}</title>
+    <!-- link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+    <link rel="icon" type="image/png" sizes="32x32" href="images/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16x16.png">
+</head>
+
+<body>
+    <nav>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="/projects">Projects</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <!-- this is a liquid tag, here is where I add specific content to my page -->
+        {{ content }}
+    </div>
+    <footer>
+        <ul>
+            <li><a href="https://github.com/PatsonEmmanuelDsouza"> github.com/PatsonEmmanuelDsouza</a></li>
+            <li><a href="https://PatsonEmmanuelDsouza.github.io"> PatsonEmmanuelDsouza.github.io </a></li>
+        </ul>
+    </footer>
+</body>
+
+</html>

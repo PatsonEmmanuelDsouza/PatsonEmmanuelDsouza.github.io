@@ -1,0 +1,2 @@
+# the ignore of _site/ is so that the automatically generated jekyll file is ignored
+_site/
