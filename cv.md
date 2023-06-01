@@ -2,8 +2,7 @@
 layout: default
 title: My CV
 ---
-## this is my CV page, still working on it
-# hey , this is cv.md
+## this is my CV page, still working on it cv.md
 <!-- ## About Me
 I am a **second-year university student in Computer Science**, and I am **passionate about coding**. <br>I constantly
 strive to improve my skills. I am a **quick learner** who enjoys tackling new challenges<br> and finding innovative
