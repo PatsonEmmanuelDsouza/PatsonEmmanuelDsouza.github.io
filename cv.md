@@ -2,7 +2,8 @@
 layout: default
 title: My CV
 ---
-## About Me
+## this is my CV page, still working on it
+<!-- ## About Me
 I am a **second-year university student in Computer Science**, and I am **passionate about coding**. <br>I constantly
 strive to improve my skills. I am a **quick learner** who enjoys tackling new challenges<br> and finding innovative
 solutions to complex problems<br>In my free time, I enjoy solving LeetCode problems, playing chess, hitting the gym and
@@ -24,7 +25,7 @@ Code](https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&log
 ![Microsoft
 Office](https://img.shields.io/badge/Microsoft%20Office-%231572B6.svg?style=flat&logo=microsoftoffice&logoColor=red&color=000000)
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)  -->
-
+<!-- 
 ## Work Experience
 
 ### **Intern Programmer**, _Konsultera Solutions Pvt Ltd_
@@ -55,4 +56,4 @@ Ruby, Linux, Docker, and Privacy.
 - 4.0 GPA
 - Deans List
 - Member of xyz club, etc.
-- I didn't really go to college so I don't know what you would put here.
+- I didn't really go to college so I don't know what you would put here. --> 
