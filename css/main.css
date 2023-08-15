@@ -1,6 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 h1 {
@@ -10,7 +11,7 @@ h1 {
 
 h2 {
     font-size: 2em;
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family: 'Helvetica', 'Arial', 'Sans-Serif'; */
 }
 
 hr {
@@ -50,7 +51,7 @@ footer {
 
 nav ul,
 footer ul {
-    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
+    /* font-family: 'Helvetica', 'Arial', 'Sans-Serif'; */
     padding: 0px;
     list-style: none;
     font-weight: bold;
