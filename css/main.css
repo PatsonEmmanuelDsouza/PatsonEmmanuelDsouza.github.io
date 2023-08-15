@@ -80,4 +80,7 @@ pre {
     font-family: inherit;
     white-space: pre-wrap;
     word-wrap: break-word;
+    text-align: left;
+    tab-size: 0;
+    /* This line removes tab spaces */
 }
